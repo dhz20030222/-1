@@ -17,6 +17,8 @@ git checkout+分支名   切换分支
 
 git ls-files 查看本地仓库文件
 
+git remove 删除本地仓库文件
+
 git remote -v查看接收和推送的仓库地址
 
 git remote add origin+仓库地址  添加远程仓库
