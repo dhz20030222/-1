@@ -8,7 +8,9 @@ git branch 查看分支
 
 git checkout+分支名   切换分支
 
-git remote add origin+仓库地址  推送远程仓库
+git remote -v查看接收和推送的仓库地址
 
-git push 推送代码  
+git remote add origin+仓库地址  添加远程仓库
+
+git push 推送代码  需设置上游分支
 
